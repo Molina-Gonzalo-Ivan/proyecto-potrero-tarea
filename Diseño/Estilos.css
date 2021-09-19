@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(20, 20, 20);;
+    color: whitesmoke;
+}
+
+header{
+    color: darkred;
+}
+
+h1{ 
+    background-color: rgb(35, 20, 20)
+    color: darkred
+}
+
+a{
+    color: firebrick;
+}
+
+.titulos{
+    color: darkred
+}
+
+.subtitulos{
+    color: darkred;
+}
+
+div{
+    background-color: rgb(35, 20, 20);
+}
